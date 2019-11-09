@@ -1,4 +1,4 @@
-# Data-Structures-Coursera-Solutions
+# Data Structures Coursera Solutions (2019)
 This repository provides solutions to the _Data Structures_ Course Offered by Coursera
 
 * Week 1 : Basic Data Structures
